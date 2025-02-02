@@ -15,19 +15,7 @@
 // Output: false
 // Explanation: There is no sorted array once rotated that can make nums.
 
-#include <iostream>
-#include <string>
-#include <math.h>
-#include <algorithm>
-#include <stdlib.h>
-#include <cctype>
-#include <vector>
-using namespace std;
-    
-int main()
-{
-    return 0;
-}
+
 
 // int min_idx(vector<int>& nums)
 // {
