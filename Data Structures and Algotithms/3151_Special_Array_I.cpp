@@ -21,21 +21,6 @@
 // Explanation:
 // nums[1] and nums[2] are both odd. So the answer is false.
 
-#include <iostream>
-#include <string>
-#include <math.h>
-#include <algorithm>
-#include <stdlib.h>
-#include <cctype>
-#include <vector>
-using namespace std;
-    
-int main()
-{
-    return 0;
-}
-
-
 class Solution {
 public:
     static bool isArraySpecial(vector<int>& nums) {
